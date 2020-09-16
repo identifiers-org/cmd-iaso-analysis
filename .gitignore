@@ -1,0 +1,13 @@
+# Jupyter environment
+**/.ipynb_checkpoints/
+
+# Python bytecode
+**/__pycache__/
+
+# Jupyter Notebook files and folders
+cmd-iaso/
+venv/
+jobs.json
+dump/
+datamine.json
+tags.gz
